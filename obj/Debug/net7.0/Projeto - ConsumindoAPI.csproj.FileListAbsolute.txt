@@ -1,0 +1,17 @@
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Projeto - ConsumindoAPI.exe
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Projeto - ConsumindoAPI.deps.json
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Projeto - ConsumindoAPI.runtimeconfig.json
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Projeto - ConsumindoAPI.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Projeto - ConsumindoAPI.pdb
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.csproj.AssemblyReference.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.AssemblyInfoInputs.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.AssemblyInfo.cs
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.csproj.CoreCompileInputs.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.csproj.CopyComplete
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\refint\Projeto - ConsumindoAPI.dll
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.pdb
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\Projeto - ConsumindoAPI.genruntimeconfig.cache
+C:\Users\finan\OneDrive\Área de Trabalho\C#\Projetos\Projeto - ConsumindoAPI\obj\Debug\net7.0\ref\Projeto - ConsumindoAPI.dll
