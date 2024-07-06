@@ -6,4 +6,5 @@ internal class CEP {
     public string uf { get; set; }
     public int ddd { get; set; }
     public bool Verificacao = false;
+    public int TamanhoCEP = 8;
 }
